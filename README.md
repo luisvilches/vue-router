@@ -15,5 +15,5 @@ npm run dev
 npm run build
 ```
 
-
+#proyecto iniciado con Vue-CLI
 #Luis Vilches A.
